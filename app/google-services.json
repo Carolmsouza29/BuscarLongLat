@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064982528069",
+    "project_id": "gpslocation-89354",
+    "storage_bucket": "gpslocation-89354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064982528069:android:c19808f6325b25d7cda32c",
+        "android_client_info": {
+          "package_name": "com.example.buscarlonglat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064982528069-l3q40r8oauvr4rmhl4e6i942m29al80l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbLV1jCeGtv0GjRG-_3xkBzlbggy5_Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064982528069-l3q40r8oauvr4rmhl4e6i942m29al80l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
